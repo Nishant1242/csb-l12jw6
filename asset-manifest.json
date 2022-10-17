@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-l12jw6/static/css/main.395eb8d5.chunk.css",
+    "main.js": "https://.github.io/csb-l12jw6/static/js/main.c485b826.chunk.js",
+    "main.js.map": "https://.github.io/csb-l12jw6/static/js/main.c485b826.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-l12jw6/static/js/runtime-main.426ef921.js",
+    "runtime-main.js.map": "https://.github.io/csb-l12jw6/static/js/runtime-main.426ef921.js.map",
+    "static/css/2.b869b992.chunk.css": "https://.github.io/csb-l12jw6/static/css/2.b869b992.chunk.css",
+    "static/js/2.e0598d17.chunk.js": "https://.github.io/csb-l12jw6/static/js/2.e0598d17.chunk.js",
+    "static/js/2.e0598d17.chunk.js.map": "https://.github.io/csb-l12jw6/static/js/2.e0598d17.chunk.js.map",
+    "index.html": "https://.github.io/csb-l12jw6/index.html",
+    "static/css/2.b869b992.chunk.css.map": "https://.github.io/csb-l12jw6/static/css/2.b869b992.chunk.css.map",
+    "static/css/main.395eb8d5.chunk.css.map": "https://.github.io/csb-l12jw6/static/css/main.395eb8d5.chunk.css.map",
+    "static/js/2.e0598d17.chunk.js.LICENSE.txt": "https://.github.io/csb-l12jw6/static/js/2.e0598d17.chunk.js.LICENSE.txt",
+    "static/media/UI.5dfa66d9.png": "https://.github.io/csb-l12jw6/static/media/UI.5dfa66d9.png",
+    "static/media/aboutus.35c80a20.png": "https://.github.io/csb-l12jw6/static/media/aboutus.35c80a20.png",
+    "static/media/anas.3ff294d5.jpg": "https://.github.io/csb-l12jw6/static/media/anas.3ff294d5.jpg",
+    "static/media/cellarTech.7569bd9e.png": "https://.github.io/csb-l12jw6/static/media/cellarTech.7569bd9e.png",
+    "static/media/graphicDesign.360e2430.png": "https://.github.io/csb-l12jw6/static/media/graphicDesign.360e2430.png",
+    "static/media/instagram-brands.90a80cd5.svg": "https://.github.io/csb-l12jw6/static/media/instagram-brands.90a80cd5.svg",
+    "static/media/landingImage.f484dc6f.png": "https://.github.io/csb-l12jw6/static/media/landingImage.f484dc6f.png",
+    "static/media/mbata.aade8c3b.jpg": "https://.github.io/csb-l12jw6/static/media/mbata.aade8c3b.jpg",
+    "static/media/mobileDevelopment.1e7d9b1a.png": "https://.github.io/csb-l12jw6/static/media/mobileDevelopment.1e7d9b1a.png",
+    "static/media/safariAdminCustomers.12e636f1.PNG": "https://.github.io/csb-l12jw6/static/media/safariAdminCustomers.12e636f1.PNG",
+    "static/media/services.css": "https://.github.io/csb-l12jw6/static/media/servicesBack.3357ddf7.png",
+    "static/media/shashankPrakash.b9333dc4.jpg": "https://.github.io/csb-l12jw6/static/media/shashankPrakash.b9333dc4.jpg",
+    "static/media/stamurai.3332a0b5.PNG": "https://.github.io/csb-l12jw6/static/media/stamurai.3332a0b5.PNG",
+    "static/media/webDesign.b116f13e.png": "https://.github.io/csb-l12jw6/static/media/webDesign.b116f13e.png",
+    "static/media/webDevelopment.48510cdb.png": "https://.github.io/csb-l12jw6/static/media/webDevelopment.48510cdb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.426ef921.js",
+    "static/css/2.b869b992.chunk.css",
+    "static/js/2.e0598d17.chunk.js",
+    "static/css/main.395eb8d5.chunk.css",
+    "static/js/main.c485b826.chunk.js"
+  ]
+}
